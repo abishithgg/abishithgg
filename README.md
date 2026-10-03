@@ -6,9 +6,13 @@ Hi 👋 I'm Abishith Reddy
 📚 Currently strengthening DSA & problem solving
 
 Featured Projects
+
 ├── SpendWise
+
 ├── Java DSA
+
 ├── Java OOP Projects
+
 └── Python Data Projects
 
 Currently:
